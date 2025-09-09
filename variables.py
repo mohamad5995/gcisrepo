@@ -3,6 +3,13 @@ def variable():
     days = 365
     pet = "cat"
     pi = 3.1415
+    print("Age:", age)
+    print("Age:", days)
+    print("Pet:", pet)
+    print("Pi:", pi)
+
+
+variable()
 
 num1 = int(input("Enter a number: "))
 num2 = int(input("Enter another number: "))
